@@ -1,0 +1,51 @@
+/*This is css file is for all the display components*/
+div{
+    text-align: center;
+}
+
+video{
+    width: 25%;
+    height: 25%;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.movie{
+    border-style: solid;
+    margin : 5px ;
+    background-color: #dae1e4;
+}
+
+.tv{
+    border-style: solid;
+    margin : 5px ;
+    background-color: #dae1e4;
+}
+
+.audiobook{
+    border-style: solid;
+    margin : 5px ;
+    background-color: #dae1e4;
+}
+.podcast{
+
+    border-style: solid;
+    margin : 5px ;
+    background-color: #dae1e4;
+}
+.ebook{
+    border-style: solid;
+    margin : 5px ;
+    background-color: #dae1e4;
+}
+.music{
+    border-style: solid;
+    margin : 5px ;
+    background-color: #dae1e4;
+}
+
+button{
+    margin: 4px;
+}

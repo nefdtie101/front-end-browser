@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="row"
+  >
+    <h2 />
+    <input
+      id="searchAll"
+    />
+    <button
+      onClick={[Function]}
+    >
+      Search
+    </button>
+  </div>
+</div>
+`;

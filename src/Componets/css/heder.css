@@ -1,0 +1,26 @@
+/* This is the css for the header file */
+.header{
+    background-color: transparent;
+    color: black;
+
+}
+
+
+a{
+    width: 100%;
+    text-decoration: none;
+    margin: 2%;
+    color: black;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    padding: 2px;
+    border-radius: 10%;
+
+
+}
+
+.col-lg-auto{
+    margin-top: 10px;
+}
+
